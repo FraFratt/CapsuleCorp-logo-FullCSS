@@ -1,0 +1,125 @@
+html{
+    font-size: 16px 
+}
+body{
+    background: #000000;
+}    
+article{
+    color: #fefefe
+}
+
+.capsulecorp{
+    width: 400px;
+    height: 400px;
+    background-color: #fafafa;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.detalle1{
+    width: 380px;
+    height: 380px;
+    background: #000000;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.detalle2{
+    width: 350px;
+    height: 350px;
+    background: #016eb3;
+    margin-top: 24px;
+    margin-left: 26px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.detalle3{
+    width: 270px;
+    height: 270px;
+    background: #000000;
+    margin-top: 65px;
+    margin-left: 67px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+/* blanco centro*/
+.detalle4{
+    width: 248px;
+    height: 248px;
+    background: #fafafa;
+    margin-top: 76px;
+    margin-left: 78px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+/* Negro centro*/
+.detalle5{
+    width: 168px;
+    height: 168px;
+    background: #000000;
+    margin-top: 117px;
+    margin-left: 120px;
+    border-radius: 50%;
+    position: absolute;
+}
+.detalle6{
+    width: 158px;
+    height: 48px;
+    background: #000000;
+    margin-top: 175px;
+    margin-left: 220px;
+    
+    position: absolute;
+}
+
+/*capsule texto y bloque*/ 
+.cuadrarounded {
+    width: 380px; 
+    height: 100px;
+    background: #fefefe;
+    margin-top: 400px;
+    margin-left: 10px;
+    border-radius: 25%;
+    position: absolute;
+}
+.cuadrarounded2 {
+    width: 370px; 
+    height: 90px;
+    background: #000000;
+    margin-top: 405px;
+    margin-left: 15px;
+    border-radius: 25%;
+    position: absolute;
+}
+.cuadrarounded3 {
+    width: 360px; 
+    height: 80px;
+    background: #000000;
+    margin-top: 410px;
+    margin-left: 20px;
+    border-radius: 25%;
+    position: absolute;
+}
+.cuadrarounded4 {
+    width: 358px; 
+    height: 78px;
+    background: #ffffff;
+    margin-top: 410px;
+    margin-left: 21px;
+    border-radius: 25%;
+    position: absolute;
+}
+.text {
+    width: 358px; 
+    height: 80px;
+    margin-top: 420px;
+    margin-left: 27px;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 40px;
+    position: absolute;
+}
